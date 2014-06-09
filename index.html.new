@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Ofir Elhayani : C.V" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Ofir Elhayani</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/bolinat">View on GitHub</a>
+
+          <h1 id="project_title">Ofir Elhayani</h1>
+          <h2 id="project_tagline">C.V</h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a name="personal-details" class="anchor" href="#personal-details"><span class="octicon octicon-link"></span></a>Personal Details</h3>
+
+<p>Date of Birth: 25.12.1975                                 Email: <a href="mailto:ofir.elhayani@gmail.com">ofir.elhayani@gmail.com</a><a href="mailto:ofir.elhayani@gmail.com"> </a></p>
+
+<p>Mobile: +972-58-6066098                                        Address: Haifa, Israel</p>
+
+<p>Status: Married                                                Github: <a href="http://bolinat.github.io/">http://bolinat.github.io</a></p>
+
+<hr><h3>
+<a name="professional-experience" class="anchor" href="#professional-experience"><span class="octicon octicon-link"></span></a>Professional Experience:</h3>
+
+<h4>
+<a name="open-source-contribution" class="anchor" href="#open-source-contribution"><span class="octicon octicon-link"></span></a>Open-Source contribution:</h4>
+
+<ul>
+<li>project:      lf- linux command</li>
+<li>language:     Bash</li>
+<li>type:         diagnostic tool </li>
+<li>audience:     regular user / admin/ shell-scripter</li>
+<li>URL: <a href="https://github.com/bolinat/lf-command">https://github.com/bolinat/lf-command</a>
+</li>
+</ul><h3>
+<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
+
+<p>11.2013-6.2014:  Linux system administrator course,HackerU. 300 hours Hands-on. </p>
+
+<p>2007: MCSA, at Sapir-tech college</p>
+
+<h3>
+<a name="military-service" class="anchor" href="#military-service"><span class="octicon octicon-link"></span></a>Military service</h3>
+
+<p>194-1998:  IDF combat infantry</p>
+
+<h3>
+<a name="working-experience" class="anchor" href="#working-experience"><span class="octicon octicon-link"></span></a>Working Experience</h3>
+
+<p><em>2001-2013:</em> Senior Field Technician at HOT
+           A major israeli TV/INET/PHONE company.</p>
+<h3>
+<a name="technical-knowledge" class="anchor" href="#technical-knowledge"><span class="octicon octicon-link"></span></a>Technical Knowledge:</h3>
+
+<ul>
+<li>O.S: Linux (Debian, centOS), Windows</li>
+<li>Primary Language: bash</li>
+<li>DB: SQL (Mysql)</li>
+<li>Networking knowledge (BIND, DHCP, DNS, TCP/IP etc.)</li>
+<li>RF infrastracture and transmission</li>
+</ul><h3>
+<a name="languages" class="anchor" href="#languages"><span class="octicon octicon-link"></span></a>Languages</h3>
+
+<ul>
+<li>Fluent reading/writing/spoken Hebrew and English</li>
+</ul>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
