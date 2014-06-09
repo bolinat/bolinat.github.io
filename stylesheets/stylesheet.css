@@ -1,4 +1,8 @@
-/*******************************************************************************
+
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role r/*******************************************************************************
 Slate Theme for GitHub Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
@@ -25,11 +29,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font: inherit;
-  vertical-align: baseline;
-}
-
-/* HTML5 display-role reset for older browsers */
+  font: inherit;eset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
@@ -286,11 +286,11 @@ Full-Width Styles
 
 #header_wrap {
   background: #006666;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: -moz-linear-gradient(top, #373737, #fff);
+  background: -webkit-linear-gradient(top, #373737, #fff);
+  background: -ms-linear-gradient(top, #373737, #fff);
+  background: -o-linear-gradient(top, #373737, #fff);
+  background: linear-gradient(top, #373737, #fff);
 }
 
 #header_wrap .inner {
