@@ -1,13 +1,20 @@
 bolinat.github.io
 =================
-![my pic](https://www.facebook.com/photo.php?fbid=10152888690559377&l=a592ab9b35 "ofir elhayani")
+![my pic](../images/me.jpg "ofir elhayani")
 # **Personal Details**
 
-Date of Birth: 25.12.1975                                            Email: [ofir.elhayani@gmail.com](mailto:ofir.elhayani@gmail.com)
+* Date of Birth: 25.12.1975                           
 
-Mobile: +972-58-6066098Address: Haifa, israel
+* Email: [ofir.elhayani@gmail.com](mailto:ofir.elhayani@gmail.com)
 
-Status: MarriedGithub: [http://bolinat.github.io](http://bolinat.github.io)
+* Mobile: +972-58-6066098                             
+
+* Address: Haifa, israel
+
+* Status: Married                                    
+
+* Github: [http://bolinat.github.io](http://bolinat.github.io)
+
 
 ####===============================================================
 
@@ -23,9 +30,24 @@ Status: MarriedGithub: [http://bolinat.github.io](http://bolinat.github.io)
 
 #**Working Experience**
 
-*2001-2013:* Senior Field Technician at HOT
-           A major israeli TV/INET/PHONE company.
+*2001-2014: Senior field cable technician at HOT (A major israeli cables tv/inet/phone company)
            
+# Open-source contribution
+
+* 
+###project:      lf- linux command
+###language:     Bash
+###type:         diagnostic tool 
+###audience:     regular user / admin/ shell-scripter
+###URL: [https://github.com/bolinat/lf-command/releases](https://github.com/bolinat/lf-command/releases "lf-command")
+
+* 
+##project:       Twilio
+###language:     Bash
+###type:         group messaging upon Twilio service of ping/wget check results 
+###audience:     admin/ shell-scripter
+###URL: [https://github.com/bolinat/twilio/releases](https://github.com/bolinat/twilio/releases "twilio")
+
 #**Technical Knowledge:**
 
 * O.S: Linux (Debian, centOS), Windows
