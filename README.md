@@ -1,6 +1,6 @@
 bolinat.github.io
 =================
-![my pic](https://www.facebook.com/photo.php?fbid=10152888690559377&l=a592ab9b35 "ofir elhayani")
+![my pic](../images/me.jpg "ofir elhayani")
 # **Personal Details**
 
 * Date of Birth: 25.12.1975                           
