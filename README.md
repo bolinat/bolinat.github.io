@@ -3,11 +3,17 @@ bolinat.github.io
 ![my pic](https://www.facebook.com/photo.php?fbid=10152888690559377&l=a592ab9b35 "ofir elhayani")
 # **Personal Details**
 
-Date of Birth: 25.12.1975                                            Email: [ofir.elhayani@gmail.com](mailto:ofir.elhayani@gmail.com)
+* Date of Birth: 25.12.1975                                            
 
-Mobile: +972-58-6066098Address: Haifa, israel
+* Email: [ofir.elhayani@gmail.com](mailto:ofir.elhayani@gmail.com)
 
-Status: MarriedGithub: [http://bolinat.github.io](http://bolinat.github.io)
+* Mobile: +972-58-6066098                                           
+
+* Address: Haifa, israel
+
+* Status: Married                                                   
+
+* Github: [http://bolinat.github.io](http://bolinat.github.io)
 
 ####===============================================================
 
