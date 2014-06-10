@@ -23,9 +23,7 @@ Status: Married                                     Github: [http://bolinat.gith
 
 #**Working Experience**
 
-*2001-2013:* Senior Field Technician at HOT.
-
-             A major israeli TV/INET/PHONE company.
+*2001-2014: Senior field cable technician at HOT (A major israeli cables tv/inet/phone company)
            
 #**Technical Knowledge:**
 
