@@ -29,7 +29,8 @@ bolinat.github.io
 
 #**Working Experience**
 
-*2001-2013:* Senior Field Technician at HOT
+*2001-2013:* Senior Field Technician at HOT.
+
            A major israeli TV/INET/PHONE company.
            
 #**Technical Knowledge:**
