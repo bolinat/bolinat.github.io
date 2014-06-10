@@ -32,6 +32,22 @@ bolinat.github.io
 
 *2001-2014: Senior field cable technician at HOT (A major israeli cables tv/inet/phone company)
            
+# Open-source contribution
+
+* 
+###project:      lf- linux command
+###language:     Bash
+###type:         diagnostic tool 
+###audience:     regular user / admin/ shell-scripter
+###URL: [https://github.com/bolinat/lf-command](https://github.com/bolinat/lf-command "lf-command")
+
+* 
+##project:       Twilio
+###language:     Bash
+###type:         group messaging upon Twilio service of ping/wget check results 
+###audience:     admin/ shell-scripter
+###URL: [https://github.com/bolinat/twilio](https://github.com/bolinat/twilio "twilio")
+
 #**Technical Knowledge:**
 
 * O.S: Linux (Debian, centOS), Windows
