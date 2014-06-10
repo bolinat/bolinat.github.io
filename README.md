@@ -39,14 +39,14 @@ bolinat.github.io
 ###language:     Bash
 ###type:         diagnostic tool 
 ###audience:     regular user / admin/ shell-scripter
-###URL: [https://github.com/bolinat/lf-command](https://github.com/bolinat/lf-command "lf-command")
+###URL: [https://github.com/bolinat/lf-command/releases](https://github.com/bolinat/lf-command/releases "lf-command")
 
 * 
 ##project:       Twilio
 ###language:     Bash
 ###type:         group messaging upon Twilio service of ping/wget check results 
 ###audience:     admin/ shell-scripter
-###URL: [https://github.com/bolinat/twilio](https://github.com/bolinat/twilio "twilio")
+###URL: [https://github.com/bolinat/twilio/releases](https://github.com/bolinat/twilio/releases "twilio")
 
 #**Technical Knowledge:**
 
