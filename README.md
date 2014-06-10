@@ -31,7 +31,7 @@ bolinat.github.io
 
 *2001-2013:* Senior Field Technician at HOT.
 
-           A major israeli TV/INET/PHONE company.
+             A major israeli TV/INET/PHONE company.
            
 #**Technical Knowledge:**
 
