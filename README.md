@@ -1,6 +1,6 @@
 bolinat.github.io
 =================
-![my pic](/images/me.jpg "ofir elhayani")
+![my pic](/images/me2.jpg "ofir elhayani")
 # **Personal Details**
 
 * Date of Birth: 25.12.1975                           
