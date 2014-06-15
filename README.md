@@ -24,6 +24,12 @@ bolinat.github.io
 
 *2007:* MCSA course at Spir-tech.
 
+#**Certifications**
+
+* LPIC-1 - Linux Professional Institute
+
+* Novell Certified Linux Administrator (CLA) - Novell
+
 #**Military service**
 
 *1994-1998:* IDF infantry soldier. 
@@ -35,17 +41,17 @@ bolinat.github.io
 # Open-source contribution
 
 * 
-###project:      lf- linux command
-###language:     Bash
-###type:         diagnostic tool 
-###audience:     regular user / admin/ shell-scripter
+###Project:      lf- linux command
+###Language:     Bash
+###Type:         diagnostic tool 
+###Audience:     regular user / admin/ shell-scripter
 ###URL: [https://github.com/bolinat/lf-command/releases](https://github.com/bolinat/lf-command/releases "lf-command")
 
 * 
-##project:       Twilio
-###language:     Bash
-###type:         group messaging upon Twilio service of ping/wget check results 
-###audience:     admin/ shell-scripter
+###Project:       Twilio
+###Language:     Bash
+###Type:         group messaging upon Twilio service of ping/wget check results 
+###Audience:     admin/ shell-scripter
 ###URL: [https://github.com/bolinat/twilio/releases](https://github.com/bolinat/twilio/releases "twilio")
 
 #**Technical Knowledge:**
