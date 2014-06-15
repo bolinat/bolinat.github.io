@@ -20,9 +20,9 @@ bolinat.github.io
 
 #**Education**
 
-*11.2013-6.2014:* Linux system administrator course, HackerU. 300 hours Hands-on
+* 11.2013-6.2014:* Linux system administrator course, HackerU. 300 hours Hands-on
 
-*2007:* MCSA course at Spir-tech.
+* 2007:* MCSA course at Spir-tech.
 
 #**Certifications**
 
