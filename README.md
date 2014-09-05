@@ -54,6 +54,13 @@ bolinat.github.io
 ###Audience:     admin/ shell-scripter
 ###URL: [https://github.com/bolinat/twilio/releases](https://github.com/bolinat/twilio/releases "twilio")
 
+*
+###Project:       Grabber
+###Language:     Bash
+###Type:         grabbing desired string from a file resides on multiple remote servers through SSH
+###Audience:     regular user/admin/ shell-scripter
+###URL: [https://github.com/bolinat/grabber/releases](https://github.com/bolinat/twilio/releases "grabber")
+
 #**Technical Knowledge:**
 
 * O.S: Linux (Debian, centOS), Windows
