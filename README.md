@@ -59,7 +59,7 @@ bolinat.github.io
 ###Language:     Bash
 ###Type:         grabbing desired string from a file resides on multiple remote servers through SSH
 ###Audience:     regular user/admin/ shell-scripter
-###URL: [https://github.com/bolinat/grabber/releases](https://github.com/bolinat/twilio/releases "grabber")
+###URL: [https://github.com/bolinat/grabber/releases](https://github.com/bolinat/grabberreleases "grabber")
 
 #**Technical Knowledge:**
 
